@@ -3,7 +3,7 @@
 #### Source: https://www.kaggle.com/snap/amazon-fine-food-reviews
 
 Here, we have implemented all the possible SQL queries that one must know while working with SQL data-base particularly while fetching and cleaning the data before training any Machine Learning model.
-###Following are the queries that we have implemented:
+### Following are the queries that we have implemented:
 ### 1. WHERE Clause
 MySQL WHERE Clause is used with SELECT, INSERT, UPDATE and DELETE clause to filter the results. It specifies a specific position where you have to do the operation.
 ### 2. Distinct Clause
